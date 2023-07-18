@@ -1,0 +1,87 @@
+body{
+    background-color: rgb(230, 230, 230);
+    margin:0 0 0 0;
+    font-family: 'Patua One', cursive;
+    
+ 
+}
+.contenedor{
+    background-color: white;
+    background-image: url("../logos/fondo.jpeg");
+    background-repeat: no-repeat;
+    background-position: center;
+    margin:25px;
+    width: 95%;
+    height: 600px;
+
+}
+
+
+.art1{
+width: 15%;
+height: 100%;
+background-color: red;
+align-items: center;
+color:white;
+text-align: center;
+font-size: 25px;
+float:left;
+}
+
+.perfil{
+    border-radius: 50%;
+    align-items: center;
+    margin:0 30px;
+    width: 65%;
+    background-color: white;
+}
+
+.art2 a img{
+    width: 50%;
+    
+
+}
+.art2 {
+    display: flex;
+    padding-left: 10px;
+    
+}
+h1{
+    padding: 50px 250px;
+    font-size: 50px;
+}
+a{
+ text-decoration: none;
+ font-size: 30px;
+ color: black;
+ text-align: center;
+}
+.titulo_input{
+    border-radius: 22px;
+    margin-left: 20px;
+    background-color:rgb(230, 230, 230);
+    text-align: center;
+    border-style: none;
+    padding:7px;
+    width: 25%
+
+ }
+ .titulo{
+    margin-bottom: 0px;
+    padding-bottom: 26px;
+ }
+ hr{
+    margin-inline: 10px;
+ }
+ .titulo_l{
+ margin-left: 210px;
+ margin-right: 55px;
+ }
+ .titulo_label1{
+    font-size: 20px;
+    
+ }
+ form{
+    width: 100%;
+    margin: 30px 10px;
+ }
